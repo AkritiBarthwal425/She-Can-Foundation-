@@ -1,0 +1,6 @@
+{
+  "name": "She Can Foundation",
+  "description": "Empowering young women through education, skill development, and leadership training to build a brighter future.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
